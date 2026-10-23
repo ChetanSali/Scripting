@@ -3,3 +3,5 @@ echo "We are from batch-33 and learning git/gihub"
 echo "I am learning branching in git and github"
 echo "I am learning how to create a pull request in git and github"
 echo "This is the merge confict 1"
+echo "I am learning Merge conflict"
+
